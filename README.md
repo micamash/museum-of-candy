@@ -17,7 +17,7 @@ This is a solution to the [Museum of Candy Project - The Web Developer Bootcamp 
 
 ### Screenshot
 
-![Museum of Candy Screenshot](images/sample.png)
+![Museum of Candy Screenshot](imgs/main-screenshot.png)
 
 ### Links
 
@@ -28,18 +28,17 @@ This is a solution to the [Museum of Candy Project - The Web Developer Bootcamp 
 
 ### Built with
 
-- 
-- 
-- 
-- 
+- HTML
+- CSS Bootstrap
+- Javascript
 
 ### What I learned
 
-In progress
+I gained more experience using CSS with Bootstrap. I utilized Javascript for the nav bar as well to transition in a background color upon scrolling.
 
 ### Continued development
 
-In progress
+I would like to continue learning more about Bootstrap and Javascript in my future projects.
 
 ## Author
 
